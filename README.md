@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Plan With Prathamesh** is a web application designed to help users plan and manage their daily activities efficiently. The app provides a user-friendly interface where users can add, edit, and delete tasks, ensuring they stay organized and productive.
+**Plan With Prathamesh** is a web application designed to help users plan and manage their daily activities efficiently. The app provides a user-friendly interface where users can add, edit, and delete tasks, ensuring they stay organized and productive..
 
 ## Features
 
